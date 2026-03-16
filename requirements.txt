@@ -1,7 +1,9 @@
 langchain-core
+langgraph
 dotenv
 langchain-openai
 langchain-groq
 pandas
 numpy
 ipykernel
+ipython
