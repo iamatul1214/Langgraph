@@ -7,3 +7,9 @@ pandas
 numpy
 ipykernel
 ipython
+duckduckgo-search
+langchain-community
+ddgs
+arxiv
+wikipedia
+langchain
